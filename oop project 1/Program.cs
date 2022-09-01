@@ -28,6 +28,7 @@ namespace oop_project_1
                 Console.WriteLine(first[i].ToString() + " = " + list2.Exists(symbol => symbol.ToString() == first[i].ToString()));
             }
             Console.WriteLine(" Hello world");
+            Console.WriteLine(" Hello world 2");
             Console.ReadLine();
         }
     }
